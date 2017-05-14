@@ -17,7 +17,8 @@ I was assigned to use the following API: https://restcountries.eu/rest/v1/all
 
 3. Annotate how you would trace the features back to the requirement. If time permits, include reporting that demonstrates how the features have been validated
 
-#Extra
+##Extra
+
 Since the deadline for this task was extended i decided once the requirments were met , to conduct further testing of the different endpoints of the  Rest countries Api. Bellow are the Different features that were tested in order to test all the endpoint that Version 1 of the Rest Countries API had to offer 
 
 1. Calling Code : "As a user I want to be able to search for a  country using the calling code  So that I can then see further details about the country"
